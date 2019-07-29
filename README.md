@@ -6,6 +6,7 @@
 4. ### [3Blue1Brown’s Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=1&source=post_page)
 5. ### [3Blue1Brown’s Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&source=post_page)
 6. ### [Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+7. ### [ML-maths_and_others](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 
 
