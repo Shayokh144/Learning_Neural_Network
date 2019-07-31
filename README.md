@@ -7,7 +7,7 @@
 5. ### [3Blue1Brown’s Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&source=post_page)
 6. ### [Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 7. ### [ML-maths_and_others](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
-
+8. ### [the_cross-entropy_cost_function](http://neuralnetworksanddeeplearning.com/chap3.html#introducing_the_cross-entropy_cost_function)
 
 
 from random import randrange
@@ -37,3 +37,6 @@ def createXORTrainTestData(dataRange):
     testData = trainData
     
     return trainData, testData
+    
+    
+    
