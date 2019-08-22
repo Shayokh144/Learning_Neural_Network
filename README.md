@@ -8,7 +8,7 @@
 6. ### [Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 7. ### [ML-maths_and_others](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 8. ### [the_cross-entropy_cost_function](http://neuralnetworksanddeeplearning.com/chap3.html#introducing_the_cross-entropy_cost_function)
-
+9. ### [overfitting_and_regularization](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
 
 from random import randrange
 def createXORTrainTestData(dataRange):
