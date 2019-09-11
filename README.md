@@ -10,7 +10,8 @@
 8. ### [the_cross-entropy_cost_function](http://neuralnetworksanddeeplearning.com/chap3.html#introducing_the_cross-entropy_cost_function)
 9. ### [overfitting_and_regularization](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
 10. ### [Weight Initialization](http://neuralnetworksanddeeplearning.com/chap3.html#weight_initialization)
-
+11. ### [Practical Recommendations for Gradient-Based Training of Deep
+Architectures](https://arxiv.org/pdf/1206.5533v2.pdf)
 from random import randrange
 def createXORTrainTestData(dataRange):
     trainData = []
