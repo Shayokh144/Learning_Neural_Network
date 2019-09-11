@@ -9,6 +9,7 @@
 7. ### [ML-maths_and_others](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 8. ### [the_cross-entropy_cost_function](http://neuralnetworksanddeeplearning.com/chap3.html#introducing_the_cross-entropy_cost_function)
 9. ### [overfitting_and_regularization](http://neuralnetworksanddeeplearning.com/chap3.html#overfitting_and_regularization)
+10. ### [Weight Initialization](http://neuralnetworksanddeeplearning.com/chap3.html#weight_initialization)
 
 from random import randrange
 def createXORTrainTestData(dataRange):
